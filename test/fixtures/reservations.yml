@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  check_in: 2020-10-16
+  check_out: 2020-10-16
+  guest_number: 1
+  guest_id: 1
+  listing: one
+  avatar: MyString
+  file: MyString
+
+two:
+  check_in: 2020-10-16
+  check_out: 2020-10-16
+  guest_number: 1
+  guest_id: 1
+  listing: two
+  avatar: MyString
+  file: MyString
