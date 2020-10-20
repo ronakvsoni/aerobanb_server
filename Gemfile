@@ -46,7 +46,7 @@ gem "jwt", "~> 2.1"
 
 gem "faker", "~> 1.9"
 
-gem "figaro", "~> 1.1"
+ gem "figaro", "~> 1.1"
 gem 'kaminari'
  gem 'carrierwave', '~> 1.0'
 gem 'mini_magick', '~> 4.8'
